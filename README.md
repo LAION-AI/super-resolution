@@ -18,3 +18,4 @@ This is the LAION repository for creating open super-resolution models with the 
 - [Swin transformer github](https://github.com/JingyunLiang/SwinIR)
 - [BasicSR github repository](https://github.com/xinntao/BasicSR)
 - [Image Super-Resolution via Iterative Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
+- [Latent-diffusion](https://github.com/CompVis/latent-diffusion)
